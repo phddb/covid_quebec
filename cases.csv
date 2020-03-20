@@ -1,56 +1,90 @@
-﻿date,kind,region,new,cumulative,notes,source
-2020-02-28,new,06 - Montréal,1,,Returned from Iran,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-05,new,15 - Laurentides,1,,Returned from India,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-09,new,16 - Montérégie,1,,returned from cruise,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-09,new,16 - Montérégie,1,,returned from france,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-10,new,non indiqué,1,,ret. England,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-10,new,non indiqué,1,,ret. Iceland,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-10,new,non indiqué,1,,ret. US,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-11,new,04 - Mauricie - Centre du Québec,1,,ret. France,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-11,new,non indiqué,1,,ret. Italy,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-12,new,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
-2020-03-14,,04 - Mauricie - Centre du Québec,0,1,,https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/
-2020-03-14,,05 - Estrie,1,3,,
-2020-03-14,,06 - Montréal,0,8,,
-2020-03-14,,12 - Chaudière-Appalaches,0,1,,
-2020-03-14,,14 - Lanaudière,0,1,,
-2020-03-14,,15 - Laurentides,0,2,,
-2020-03-14,,16 - Montérégie,1,7,,
-2020-03-14,,À déterminer,1,1,,
-2020-03-15,,03 - Capitale Nationale,0,2,,
-2020-03-15,,04 - Mauricie - Centre du Québec,0,3,,
-2020-03-15,,05 - Estrie,0,4,,
-2020-03-15,,06 - Montréal,1,10,,
-2020-03-15,,12 - Chaudière-Appalaches,2,3,,
-2020-03-15,,14 - Lanaudière,1,2,,
-2020-03-15,,15 - Laurentides,0,3,,
-2020-03-15,,16 - Montérégie,0,9,,
-2020-03-15,,Hors Québec,0,1,,
-2020-03-15,,À déterminer,0,2,,
-2020-03-16,,03 - Capitale Nationale,0,2,,
-2020-03-16,,04 - Mauricie - Centre du Québec,0,3,,
-2020-03-16,,05 - Estrie,0,3,,
-2020-03-16,,06 - Montréal,5,18,,
-2020-03-16,,12 - Chaudière-Appalaches,1,4,,
-2020-03-16,,14 - Lanaudière,1,3,,
-2020-03-16,,15 - Laurentides,0,3,,
-2020-03-16,,16 - Montérégie,1,10,,
-2020-03-16,,Hors Québec,0,1,,
-2020-03-16,,À déterminer,1,3,,
-2020-03-17,,03 - Capitale Nationale,1,3,,
-2020-03-17,,04 - Mauricie - Centre du Québec,0,3,,
-2020-03-17,,05 - Estrie,6,9,,
-2020-03-17,,06 - Montréal,3,21,,
-2020-03-17,,12 - Chaudière-Appalaches,0,4,,
-2020-03-17,,14 - Lanaudière,0,3,,
-2020-03-17,,15 - Laurentides,2,5,,
-2020-03-17,,16 - Montérégie,1,11,,
-2020-03-17,,Hors Québec,0,1,,
-2020-03-17,,À déterminer,0,3,,
+﻿date,region,new,cumulative,notes,source
+2020-02-28,06 - Montréal,1,,Returned from Iran,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-05,15 - Laurentides,1,,Returned from India,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-09,16 - Montérégie,1,,returned from cruise,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-09,16 - Montérégie,1,,returned from france,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-10,non indiqué,1,,ret. England,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-10,non indiqué,1,,ret. Iceland,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-10,non indiqué,1,,ret. US,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-11,04 - Mauricie - Centre du Québec,1,,ret. France,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-11,non indiqué,1,,ret. Italy,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-12,non indiqué,1,,traveled outside province,https://montrealgazette.com/news/local-news/a-timeline-of-the-novel-coronavirus-in-quebec
+2020-03-13,04 - Mauricie - Centre du Québec,0,1,"* THIS ASTERISK MEANS THAT THE DATE MIGHT BE INNACURATE (OFFSET BY ONE)  (archived page says March 14, 3pm; I'm plotting this on March 13 only because I didn't have data for that day. Plotting this on the 13th instead of the 14th makes the graph look smoother)",https://web.archive.org/web/20200315131631/https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/#c46333
+2020-03-13,05 - Estrie,1,3,"* I'M PLOTTING THESE ON THE 13,14,15 and 16, BUT THE DATA MIGHT ACTUALLY HAVE BEEN REPORTED BY SANTE QUEBEC ON THE 14,15,16 and 17. I’M NOT SURE!",
+2020-03-13,06 - Montréal,0,8,*,
+2020-03-13,12 - Chaudière-Appalaches,0,1,*,
+2020-03-13,14 - Lanaudière,0,1,*,
+2020-03-13,15 - Laurentides,0,2,*,
+2020-03-13,16 - Montérégie,1,7,*,
+2020-03-13,À déterminer,1,1,*,
+2020-03-14,03 - Capitale Nationale,0,2,"* not sure when this was scraped or when this was reported to be true. I'd originally listed this for the 15th, by I'm plotting it on the 14th",
+2020-03-14,04 - Mauricie - Centre du Québec,0,3,*,
+2020-03-14,05 - Estrie,0,4,*,
+2020-03-14,06 - Montréal,1,10,*,
+2020-03-14,12 - Chaudière-Appalaches,2,3,*,
+2020-03-14,14 - Lanaudière,1,2,*,
+2020-03-14,15 - Laurentides,0,3,*,
+2020-03-14,16 - Montérégie,0,9,*,
+2020-03-14,Hors Québec,0,1,*,
+2020-03-14,À déterminer,0,2,*,
+2020-03-15,03 - Capitale Nationale,0,2,"* Originally listed on the 16th, but am plotting for the 15th. Not sure when it was scraped.",
+2020-03-15,04 - Mauricie - Centre du Québec,0,3,*,
+2020-03-15,05 - Estrie,0,3,*,
+2020-03-15,06 - Montréal,5,18,*,
+2020-03-15,12 - Chaudière-Appalaches,1,4,*,
+2020-03-15,14 - Lanaudière,1,3,*,
+2020-03-15,15 - Laurentides,0,3,*,
+2020-03-15,16 - Montérégie,1,10,*,
+2020-03-15,Hors Québec,0,1,*,
+2020-03-15,À déterminer,1,3,*,
+2020-03-16,03 - Capitale Nationale,1,3,"* maybe scraped in the morning? I can't remember. Originally listed for the 17th, but am plotting on the 16th",
+2020-03-16,04 - Mauricie - Centre du Québec,0,3,*,
+2020-03-16,05 - Estrie,6,9,*,
+2020-03-16,06 - Montréal,3,21,*,
+2020-03-16,12 - Chaudière-Appalaches,0,4,*,
+2020-03-16,14 - Lanaudière,0,3,*,
+2020-03-16,15 - Laurentides,2,5,*,
+2020-03-16,16 - Montérégie,1,11,*,
+2020-03-16,Hors Québec,0,1,*,
+2020-03-16,À déterminer,0,3,"* OK, DATES ARE ACCURATE AFTER THIS LINE",
+2020-03-17,03 - Capitale Nationale,0,3,website says as of 13h on March 17; scraped at 6:50 pm,https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/#c46333
+2020-03-17,04 - Mauricie - Centre du Québec,0,3,,
+2020-03-17,05 - Estrie,0,9,,
+2020-03-17,06 - Montréal,1,22,,
+2020-03-17,12 - Chaudière-Appalaches,0,4,,
+2020-03-17,14 - Lanaudière,3,6,,
+2020-03-17,15 - Laurentides,2,7,,
+2020-03-17,16 - Montérégie,2,13,,
+2020-03-17,Hors Québec,1,2,,
+2020-03-17,À déterminer,2,5,,
+2020-03-18,03 - Capitale Nationale,,8,website says as of 13h on March 18; scraped at 3:09pm; includes one person recovered and one deceased,https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/#c46333
+2020-03-18,04 - Mauricie - Centre du Québec,,3,,
+2020-03-18,05 - Estrie,,18,,
+2020-03-18,06 - Montréal,,24,,
+2020-03-18,07 - Outaouais,,1,,
+2020-03-18,12 - Chaudière-Appalaches,,6,,
+2020-03-18,14 - Lanaudière,,6,,
+2020-03-18,15 - Laurentides,,8,,
+2020-03-18,16 - Montérégie,,13,,
+2020-03-18,Hors Québec,,2,,
+2020-03-18,À déterminer,,5,,
+2020-03-19,01 - Bas-Saint-Laurent,,1,"website says 13h on March 19, scraped shortly afterward",
+2020-03-19,03 - Capitale Nationale,,10,,
+2020-03-19,04 - Mauricie - Centre du Québec,,3,,
+2020-03-19,05 - Estrie,,26,,
+2020-03-19,06 - Montréal,,28,,
+2020-03-19,07 - Outaouais,,1,,
+2020-03-19,12 - Chaudière-Appalaches,,6,,
+2020-03-19,13 - Laval,,1,,
+2020-03-19,14 - Lanaudière,,7,,
+2020-03-19,15 - Laurentides,,9,,
+2020-03-19,16 - Montérégie,,19,,
+2020-03-19,Hors Québec,,2,,
+2020-03-19,À déterminer,,8,,
